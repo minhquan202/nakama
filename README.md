@@ -32,7 +32,7 @@ Connection: close
 {"username":"blackjame","password":"12345678"}
 ```
 
-POC: https://www.notion.so/No-Protection-against-Bruteforce-attacks-on-Login-page-in-7133e7c1a78e47f0991c881e029d9414?pvs=4
+POC: https://www.notion.so/No-Protection-against-Bruteforce-attacks-on-Login-page-in-heroiclabs-nakama-7133e7c1a78e47f0991c881e029d9414?pvs=4
 
 
 
