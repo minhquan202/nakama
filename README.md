@@ -34,7 +34,7 @@ Connection: close
 
 POC:
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/973c2f7e-8f7b-4cd6-a12b-9cf06a1de633/7209f769-88da-4aac-aa7c-9bcef3c6167e/Untitled.png)
+https://www.notion.so/No-Protection-against-Bruteforce-attacks-on-Login-page-in-7133e7c1a78e47f0991c881e029d9414?pvs=4
 
 # Impact
 
